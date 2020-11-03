@@ -1,3 +1,5 @@
+**This project has been archived. Please check out the [geo](https://github.com/tidwall/geojson/tree/master/geo) package from [tidwall/geojson](https://github.com/tidwall/geojson) for a more complete polygon detection library.**
+
 Poly
 ====
 [![Build Status](https://travis-ci.org/tidwall/poly.svg?branch=master)](https://travis-ci.org/tidwall/poly)
